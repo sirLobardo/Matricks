@@ -1,6 +1,10 @@
 # Matricks
 # Coded By sirLobardo
 
+#If you want to use this libraries, you need to install them
+# type on terminal 
+#pip install matplotlib numpy
+
 #import matplotlib.pyplot as plt
 #import math
 #import numpy as np
